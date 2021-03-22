@@ -12,3 +12,4 @@ if (($row= mysql_fetch_array($r)))
 echo 'Bienvenid@';
 else echo 'Error de Acceso';
 ?>
+
